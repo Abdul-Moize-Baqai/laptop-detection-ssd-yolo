@@ -1,0 +1,22 @@
+{
+  "mAP50": 0.8444444444444444,
+  "AP50_laptop": 0.8444444444444444,
+  "precision": 0.9444444444444444,
+  "recall": 0.85,
+  "true_positives": 17,
+  "false_positives": 1,
+  "false_negatives": 3,
+  "gt_instances": 20,
+  "evaluated_images": 19,
+  "score_threshold": 0.05,
+  "iou_threshold": 0.5,
+  "metric_definition": "single-class VOC-style area under interpolated PR curve at IoU=0.50; NOT COCO mAP@[.50:.95]",
+  "experiment": "pretrained-ssd",
+  "epoch_count": 15,
+  "num_train_images": 67,
+  "num_val_images": 8,
+  "num_test_images": 19,
+  "final_train_loss": 0.3350765378172718,
+  "learning_rate": 0.0001,
+  "batch_size": 1
+}

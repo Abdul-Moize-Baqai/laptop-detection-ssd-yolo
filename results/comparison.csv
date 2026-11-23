@@ -1,0 +1,5 @@
+model,mAP50,precision,recall,true_positives,false_positives,false_negatives,evaluated_images,gt_instances
+custom-ssd,0.12059798481464179,0.0658682634730539,0.55,11,156,9,19,20
+custom-yolo,0.2739061652328915,0.023529411764705882,0.7,14,581,6,19,20
+pretrained-ssd,0.8444444444444444,0.9444444444444444,0.85,17,1,3,19,20
+pretrained-yolo,0.9475,0.9047619047619048,0.95,19,2,1,19,20
